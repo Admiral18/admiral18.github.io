@@ -12,7 +12,7 @@ const quizData = [
         correct: 8
     },
     {
-        question: "Was ist die Ziffernsumme euere Hochzeitstags?",
+        question: "Was ist die Ziffernsumme eures Hochzeitstags(Feier)?",
         correct: 14
     },
     {

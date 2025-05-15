@@ -80,6 +80,7 @@ function checkAnswer() {
         let curSpan = $(getCurSpan());
         curSpan.removeClass("active-blank");
         curSpan.text(value);
+        answerEl.val("");
 
         if(questionId == lastQuestionId) {
             $("#quizSuccess").removeClass("success-hidden");
